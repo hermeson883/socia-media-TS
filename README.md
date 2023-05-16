@@ -9,6 +9,6 @@
     <li><a href='https://phosphoricons.com'>phosphor Icons</a></li>
 </ul>
 
-<div align="center">]
+<div align="center">
     <img src="https://avatars.githubusercontent.com/u/72263429?v=4" alt="" width = '250px'>
 </center>
