@@ -15,7 +15,7 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: "https://github.com//hermeson883.png",
+      avatarURL: "https://github.com//hermeson883.png",
       name: "Hermeson do Vale beserra",
       role: "Web Deb && Data Science",
     },
@@ -34,7 +34,7 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: "https://github.com//gabrielsoares40940.png",
+      avatarURL: "https://github.com//gabrielsoares40940.png",
       name: "Gabriel Soares",
       role: "Web Dev & Python",
     },

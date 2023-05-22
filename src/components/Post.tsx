@@ -12,7 +12,6 @@ interface Author{
     name: string;
     role : string;
     avatarURL: string;
-    
 }
 
 interface Content{
